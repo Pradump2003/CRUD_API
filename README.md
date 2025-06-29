@@ -45,7 +45,7 @@ CRUD-App/
 
 4. **Start the server:**
    ```sh
-   node server.js
+   npm start
    ```
    The server will run on [http://localhost:9000](http://localhost:9000).
 
