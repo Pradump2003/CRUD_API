@@ -57,7 +57,7 @@ CRUD-App/
 | POST   | `/add-user`           | Add a new user           |
 | GET    | `/all-users`          | Get all users            |
 | GET    | `/user/:id`           | Get a single user by ID  |
-| PUT    | `/user/:id`           | Update a user by ID      |
+| PATCH  | `/user/:id`           | Update a user by ID      |
 | DELETE | `/user/:id`           | Delete a user by ID      |
 | DELETE | `/delete-users`       | Delete all users         |
 
